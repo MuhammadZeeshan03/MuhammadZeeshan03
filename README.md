@@ -2,8 +2,8 @@
 
 
 ## I am Muhammad Zeeshan
-- Student of Computer Science 
-- Currently Studying at [SEECS NUST, Islamabad](https://nust.edu.pk) 
+- Software Engineer🚀
+- Studied at [SEECS NUST, Islamabad](https://nust.edu.pk) 
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
