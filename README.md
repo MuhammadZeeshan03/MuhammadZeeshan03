@@ -1,9 +1,15 @@
-# Hello! 👋
+# Hello! 👋  
 
+## I am Muhammad Zeeshan  
 
-## I am Muhammad Zeeshan
-- Software Engineer🚀
-- Studied at [SEECS NUST, Islamabad](https://nust.edu.pk) 
+- **Software Engineer** 🚀  
+- Studied at [SEECS NUST, Islamabad](https://nust.edu.pk)  
+- Passionate about crafting efficient and scalable web and mobile applications.  
+- Skilled in **React**, **React Native**, **Firebase**, **Tailwind CSS**, and more.  
+- Experienced in integrating third-party APIs like **Google Maps** and building dynamic user interfaces.  
+- Enthusiastic about learning and applying cutting-edge technologies in real-world projects.  
+- Dedicated to creating seamless user experiences and robust backend systems.
+- 
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
