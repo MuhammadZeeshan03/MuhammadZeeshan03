@@ -9,7 +9,6 @@
 - Experienced in integrating third-party APIs like **Google Maps** and building dynamic user interfaces.  
 - Enthusiastic about learning and applying cutting-edge technologies in real-world projects.  
 - Dedicated to creating seamless user experiences and robust backend systems.
-- 
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
